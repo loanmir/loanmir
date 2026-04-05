@@ -50,20 +50,20 @@ Welcome to my GitHub! I'm a passionate **Software Developer** and **ML Researche
 
 ## Featured Repositories
 
-### [B.Sc Thesis — Student Performance Prediction]([https://github.com/loanmir/Projects/tree/main](https://github.com/loanmir/Projects/tree/main/Diploma_Thesis))
+### [B.Sc Thesis — Student Performance Prediction](https://github.com/loanmir/Projects/tree/main/Diploma_Thesis)
 Predicting secondary school student performance using Machine Learning — full ML pipeline from data preprocessing to model evaluation.
  
-### [Real-Time Anomaly Detection System]([https://github.com/loanmir/Projects/tree/main](https://github.com/loanmir/Projects/tree/main/Real_Time_Anomaly_Detection_System))
+### [Real-Time Anomaly Detection System](https://github.com/loanmir/Projects/tree/main/Real_Time_Anomaly_Detection_System)
 Data-driven security system for spotting threats in real time using honeypot simulation. Built with SCRUM methodology.
  
-### [Mandelbrot Set on JavaFX]([https://github.com/loanmir/Projects/tree/main](https://github.com/loanmir/Projects/tree/main/JavaFX_Application_Project))
-Visualization of the Mandelbrot Set using JavaFX, implementing three different computation approaches: Sequential, Parallel, and Distributed. It showcases the performance diffferences and scalability of each approach.
+### [Mandelbrot Set on JavaFX](https://github.com/loanmir/Projects/tree/main/JavaFX_Application_Project)
+Visualization of the Mandelbrot Set using JavaFX, implementing three computation approaches: Sequential, Parallel, and Distributed — showcasing performance differences and scalability.
  
-### [Java Snake — TDD]([https://github.com/loanmir/Projects/tree/main](https://github.com/loanmir/Snake-Game-sdm-24))
+### [Java Snake — TDD](https://github.com/loanmir/Snake-Game-sdm-24)
 Snake game built with Test Driven Development using Java and Gradle. Group university project.
-
-### [Sport Manager Web App]([[https://github.com/loanmir/Projects/tree/main](https://github.com/loanmir/Snake-Game-sdm-24)](https://github.com/loanmir/Projects/tree/main/Sport_Web_Application))
-Final exam project for the course of "Web Application Programming". It is a full-stack React and Node.js application for managing amateur sports tournaments and field bookings.
+ 
+### [Sport Manager Web App](https://github.com/loanmir/Projects/tree/main/Sport_Web_Application)
+Full-stack React and Node.js application for managing amateur sports tournaments and field bookings. Final project for Web Application Programming.
 
 ---
 
