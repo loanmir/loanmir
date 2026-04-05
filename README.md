@@ -1,66 +1,73 @@
-# Hi, I'm Jane Doe 👋
+# Hi, I'm Lucas Lorenzo Jakin
 
-### 🔐 Cybersecurity Enthusiast | 💻 Software Developer | 🎓 Computer Science Master's Student
+### ML/AI Enthusiast | Software Developer | Computer Engineering Master's Student
 
-Welcome to my GitHub! I'm a passionate **Software Developer** and **Security Researcher** currently pursuing my Master's in Computer Science at the **University of XYZ**.
-
----
-
-## 👩‍💻 About Me
-
-- 🔐 **Focus Area**: Network security, secure software development, and cloud infrastructure
-- 🤖 **Current Role**: Software Engineer working with Docker, Kubernetes, and REST APIs
-- 🎓 **Education**: Master's in Computer Science @ University of XYZ
-- 🌱 **Currently Learning**: Advanced cloud security, DevSecOps, and machine learning
+Welcome to my GitHub! I'm a passionate **Software Developer** and **ML Researcher** currently pursuing my Master's in Computer Engineering at the **University of Trieste**.
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
+
+- **Focus Area**: Machine Learning, Explainable AI methods, Software Development, Data-Driven solutions
+- **Current Role**: Software Engineering student working on ML and XAI, Full-Stack Development, Dockerized solutions and Image-classification services
+- **Education**:
+    -  Bachelor's in Computer Science @ University of Primorska
+    -  Pursuing Master's in Computer Engineering @ University of Trieste
+- **Currently Learning**: Counterfactual explanations in XAI, Object detection technologies and autonomous systems, Deep Learning
+- **Beyond Code**: Passionate about sports and fitness - essential for keeping a sharp mind
+
+---
+
+## Technical Skills
 
 ### Programming Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🔒 Cybersecurity Expertise
+### Machine Learning and AI
 
-- **Security Auditing**: NIST frameworks, GDPR compliance, security assessments, vulnerability analysis
-- **Incident Response**: Digital forensics, threat detection, incident handling procedures
-- **SIEM & Monitoring**: Security information and event management, log analysis, threat intelligence
-- **Penetration Testing**: Network scanning, vulnerability exploitation, security testing
-- **CTF Platforms**: TryHackMe, HackTheBox, cybersecurity challenges
-- **Standards & Compliance**: ISO 27001, NIST Cybersecurity Framework, GDPR
+- **ML Frameworks**: TensorFlow, PyTorch, scikit-learn
+- **Explainable AI (XAI)**: DiCE Framework, counterfactual explanations, human-centric AI
+- **Data Science**: Data analysis, visualization, pattern recognition, predictive modeling
+- **Anomaly Detection**: Real-time threat detection, automated root cause analysis
+- **MLOps**: Model deployment, monitoring with SigNoz and OpenTelemetry
 
-### ☁️ Cloud & DevOps
-
-- **Kubernetes** - Container orchestration
-- **AWS** - Cloud infrastructure and services
-- **CI/CD** - GitHub Actions, Jenkins pipelines
-- **Terraform** - Infrastructure as Code
-
----
-
-## 📂 Featured Repositories
-
-### [🔐 Security Portfolio](https://github.com/janedoe/security-portfolio)
-Comprehensive cybersecurity portfolio including security audits, incident response procedures, CTF writeups, and penetration testing labs.
-
-### [🧪 Dev Labs](https://github.com/janedoe/dev-labs)
-Hands-on software engineering exercises and practical implementations.
-
-### [🌐 Cloud Infrastructure](https://github.com/janedoe/cloud-infra)
-Cloud-native architecture and infrastructure automation projects.
-
-### [📐 Algorithms & Data Structures](https://github.com/janedoe/algorithms)
-Optimization algorithms and data structures implementations in Python and Java.
+### Infrastructure & DevOps
+ 
+- **Docker & Kubernetes** - Containerization and orchestration
+- **Databases**: MySQL, MongoDB
+- **Monitoring**: SigNoz, OpenTelemetry
+- **Version Control**: Git, GitHub
 
 ---
 
-## 📊 GitHub Statistics
+## Featured Repositories
+
+### [B.Sc Thesis — Student Performance Prediction]([https://github.com/loanmir/Projects/tree/main](https://github.com/loanmir/Projects/tree/main/Diploma_Thesis))
+Predicting secondary school student performance using Machine Learning — full ML pipeline from data preprocessing to model evaluation.
+ 
+### [Real-Time Anomaly Detection System]([https://github.com/loanmir/Projects/tree/main](https://github.com/loanmir/Projects/tree/main/Real_Time_Anomaly_Detection_System))
+Data-driven security system for spotting threats in real time using honeypot simulation. Built with SCRUM methodology.
+ 
+### [Mandelbrot Set on JavaFX]([https://github.com/loanmir/Projects/tree/main](https://github.com/loanmir/Projects/tree/main/JavaFX_Application_Project))
+Visualization of the Mandelbrot Set using JavaFX, implementing three different computation approaches: Sequential, Parallel, and Distributed. It showcases the performance diffferences and scalability of each approach.
+ 
+### [Java Snake — TDD]([https://github.com/loanmir/Projects/tree/main](https://github.com/loanmir/Snake-Game-sdm-24))
+Snake game built with Test Driven Development using Java and Gradle. Group university project.
+
+### [Sport Manager Web App]([[https://github.com/loanmir/Projects/tree/main](https://github.com/loanmir/Snake-Game-sdm-24)](https://github.com/loanmir/Projects/tree/main/Sport_Web_Application))
+Final exam project for the course of "Web Application Programming". It is a full-stack React and Node.js application for managing amateur sports tournaments and field bookings.
+
+---
+
+## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=dark&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=janedoe&theme=dark&hide_border=true)
@@ -68,21 +75,20 @@ Optimization algorithms and data structures implementations in Python and Java.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- **Learning**: Advanced Cloud Security, AI/ML Security, DevSecOps
-- **Working On**: Kubernetes security hardening, REST API development
-- **Interests**: Security Research, CTF Challenges, Open Source Contributions
-
----
-
-## 🤝 Connect With Me
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://janedoe.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janedoe)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jane.doe@email.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/janedoe)
+- **Learning**: Advanced XAI techniques, Deep Learning, AI interpretability
+- **Working On**: Counterfactual explanations research, anomaly detection systems
+- **Interests**: Machine Learning Research, Data Science, Explainable AI, Open Source
 
 ---
 
-*From [janedoe](https://github.com/janedoe)*
+## Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.jakin02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasjakin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loanmir)
+ 
+---
+ 
+*From [loanmir](https://github.com/loanmir)*
