@@ -78,8 +78,8 @@ Full-stack React and Node.js application for managing amateur sports tournaments
 ## Current Focus
 
 - **Learning**: Advanced XAI techniques, Deep Learning, AI interpretability
-- **Working On**: Counterfactual explanations research, anomaly detection systems
-- **Interests**: Machine Learning Research, Data Science, Explainable AI, Open Source
+- **Current Projects**: A research paper addressing categorical features within the DPG XAI framework, and an AI-based computer vision system for agricultural drones.
+- **Interests**: Machine Learning Research, Data Science, Explainable AI, Computer Vision
 
 ---
 
